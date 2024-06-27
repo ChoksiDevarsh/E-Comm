@@ -1,0 +1,20 @@
+{
+  "name": "e-com",
+  "version": "1.0.0",
+  "description": "apis related to e-com",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "e-com"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.4.3",
+    "nodemon": "^3.1.4"
+  }
+}
